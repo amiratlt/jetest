@@ -1,0 +1,4 @@
+*.pyc
+*.csv
+logapp/mp3_carb
+!logapp/.gitkeep
